@@ -1,8 +1,7 @@
 # Observer_Ex1
 
-1. add operating instructions for whoever wants to use the code ( or the tests? )
+In order to run the project, one should the repository to its' computer or download a zip of it, then open it through an IDE, go to the Tests.java file inside src/test/test and run it.
 
-----------------------------------------------------------------
 In this assignment we were asked to implement an observer by implementing the given interfaces(Member, Sender).
 An observer is a design pattern that is a behavioral design pattern type. In this pattern, objects are represented 
 as observers that wait for an event to trigger. When the new event is triggered, the multiple observers catch 
